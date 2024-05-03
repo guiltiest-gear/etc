@@ -64,19 +64,10 @@ print_message () {
         "Keep trying, someday you'll do something intelligent!"
         "If shit was music, you'd be an orchestra."
         "How many times do I have to flush before you go away?"
-        "Quit wiping your ass with your keyboard"
         ":/"
-        "Can you fucking type better for a change?"
-        "Go fuck yourself"
-        "How are you this fucking stupid?"
-        "How hard is it for you to understand how to fucking type properly?"
-        "I'm getting real sick of your shit real fucking fast, you know that pal?"
         "If you were in the same room as Stephen Hawking and Albert Einstein, you'd singlehandedly drop the average IQ to 7."
-        "I could eat alphabet soup and shit better commands than you"
-        "This is why no one likes you, you know that?"
-        "I am going to bash your fucking head in if you don't quit your bullshit"
-        "Did you know? You're the stupidest fucking user I've ever encountered."
-        "Bruh"
+        "You are the 13th reason"
+        "Your life is nothing, you serve ZERO purpose. You should kill yourself, NOW!"
     )
 
     # If CMD_NOT_FOUND_MSGS array is populated use those messages instead of the defaults
